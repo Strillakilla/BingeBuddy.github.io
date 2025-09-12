@@ -1,5 +1,5 @@
 # BingeBuddy.github.io
-CS411W ODU
+CS411 ODU
 
 Team Red - Fall 2025
 
