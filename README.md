@@ -1,5 +1,5 @@
 # BingeBuddy.github.io
-Streaming Services Helper Application: CS410 ODU
+CS411W ODU
 
 Team Red - Fall 2025
 
